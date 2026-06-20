@@ -49,7 +49,7 @@ certificates.forEach(cert => {
 });
 
 function openResume() {
-  viewer.src = "assets/Aditya_Resume%202026.pdf";
+  viewer.src = "Aditya_Resume_2026.pdf";
   modal.style.display = "block";
 }
 
